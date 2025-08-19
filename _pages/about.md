@@ -41,7 +41,7 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SJRL.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Self-supervised joint representation learning for urban land-use classification with multisource geographic data](https://ieeexplore.ieee.org/abstract/document/10855160/)
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
@@ -50,7 +50,7 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/LUSA.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Urban land-use classification with multi-source self-supervised representation learning and correlation modeling](https://ieeexplore.ieee.org/document/10642159)
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
@@ -59,7 +59,7 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/GUN.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
 
@@ -77,7 +77,3 @@ Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang$^{*}$**, Mengzi Xu, Yu Su, Zhe
 # 📖 Educations
 - *2023.09 - now*, Doctoral, Wuhan University, Wuhan.
 - *2019.09 - 2023.06*, Bachelor, Wuhan University, Wuhan.
-
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
