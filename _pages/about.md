@@ -28,15 +28,9 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">RSE 2025</div>
-    <div class="img-wrap">
-      <img src='images/Multi_E2E.png' alt="Multi-E2E cover image">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='images/Multi_E2E.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographical data**
 
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
@@ -47,14 +41,8 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">TGRS 2024</div>
-    <div class="img-wrap">
-      <img src='images/500x300.png' alt="SJRL cover image">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SJRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
   
 [Self-supervised joint representation learning for urban land-use classification with multisource geographic data](https://ieeexplore.ieee.org/abstract/document/10855160/)
 
@@ -64,14 +52,8 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">IGARSS 2024</div>
-    <div class="img-wrap">
-      <img src='images/500x300.png' alt="LUSC cover image">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/LUSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
   
 [Urban land-use classification with multi-source self-supervised representation learning and correlation modeling](https://ieeexplore.ieee.org/document/10642159)
 
@@ -81,14 +63,8 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">RSE 2023</div>
-    <div class="img-wrap">
-      <img src='images/500x300.png' alt="GUN cover image">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/GUN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
 
