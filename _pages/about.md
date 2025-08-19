@@ -28,7 +28,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='images/Multi_E2E.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographical data
@@ -41,6 +41,33 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SJRL.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+[Self-supervised joint representation learning for urban land-use classification with multisource geographic data](https://ieeexplore.ieee.org/abstract/document/10855160/)
+**Ruiyi Yang**, Yu Su, Yanfei Zhong
+
+- This paper introduces a self-supervised joint representation learning (SJRL) framework for urban land-use classification with multisource geographic data. For the high-resolution remote sensing images, a semantic-aware self-supervised representation approach is employed to mine the significant visual information of the HRS images. For the points of interest (POIs), a context-aware self-supervised representation learning approach is designed to investigate the spatial distribution patterns of POIs.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/LUSA.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+[Urban land-use classification with multi-source self-supervised representation learning and correlation modeling](https://ieeexplore.ieee.org/document/10642159)
+**Ruiyi Yang**, Yu Su, Yanfei Zhong
+
+- This work proposes an urban land-use classification framework with multi-source self-supervised representation learning and correlation modeling (LUSC). This framework introduces self-supervised approaches for HRS images and POIs to mine the multi-source representations from parcels.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/GUN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
+
+Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang$^{*}$**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
+
+- This paper develops a large-scale fine-grained urban land-use dataset GlobalUrbanNet (GUN) and a multi-city fully automatic urban land-use mapping method (AutoULUM), boosting the coordinated development of multiple cities around the world.
+  </div>
+  </div>
 
 # 🎖 Honors and Awards
 - *2024.10* Outstanding graduate academic second-class scholarship，Outstanding graduate
@@ -51,9 +78,6 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
 - *2023.09 - now*, Doctoral, Wuhan University, Wuhan.
 - *2019.09 - 2023.06*, Bachelor, Wuhan University, Wuhan.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
