@@ -19,6 +19,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographical data
 
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
+
 [**Code**](https://github.com/Rayoll/Multi_E2E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - This work proposes an end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographic data (Multi-E2E). The Multi-E2E framework automatically establishes the mapping from multi-source data to land-use categories through a data-driven approach.
