@@ -59,7 +59,7 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/GUN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/GUN.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
 
