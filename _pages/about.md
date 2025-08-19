@@ -68,7 +68,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 [Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
 
-Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang$^{*}$**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
+Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
 
 [**Dataset**](https://rsidea.whu.edu.cn/GUN_dataset.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
