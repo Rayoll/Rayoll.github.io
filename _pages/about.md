@@ -44,8 +44,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 [**Code**](https://github.com/Rayoll/Multi_E2E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - This work proposes an end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographic data (Multi-E2E). The Multi-E2E framework automatically establishes the mapping from multi-source data to land-use categories through a data-driven approach.
-
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -62,8 +61,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
 
 - This paper introduces a self-supervised joint representation learning (SJRL) framework for urban land-use classification with multisource geographic data. For the high-resolution remote sensing images, a semantic-aware self-supervised representation approach is employed to mine the significant visual information of the HRS images. For the points of interest (POIs), a context-aware self-supervised representation learning approach is designed to investigate the spatial distribution patterns of POIs.
-
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -80,8 +78,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
 
 - This work proposes an urban land-use classification framework with multi-source self-supervised representation learning and correlation modeling (LUSC). This framework introduces self-supervised approaches for HRS images and POIs to mine the multi-source representations from parcels.
-
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -98,8 +95,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang$^{*}$**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
 
 - This paper develops a large-scale fine-grained urban land-use dataset GlobalUrbanNet (GUN) and a multi-city fully automatic urban land-use mapping method (AutoULUM), boosting the coordinated development of multiple cities around the world.
-
-  </div>
+</div>
 </div>
 
 # 🎖 Honors and Awards
