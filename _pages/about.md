@@ -43,7 +43,9 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 [Self-supervised joint representation learning for urban land-use classification with multisource geographic data](https://ieeexplore.ieee.org/abstract/document/10855160/)
+
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
 
 - This paper introduces a self-supervised joint representation learning (SJRL) framework for urban land-use classification with multisource geographic data. For the high-resolution remote sensing images, a semantic-aware self-supervised representation approach is employed to mine the significant visual information of the HRS images. For the points of interest (POIs), a context-aware self-supervised representation learning approach is designed to investigate the spatial distribution patterns of POIs.
@@ -52,7 +54,9 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 [Urban land-use classification with multi-source self-supervised representation learning and correlation modeling](https://ieeexplore.ieee.org/document/10642159)
+
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
 
 - This work proposes an urban land-use classification framework with multi-source self-supervised representation learning and correlation modeling (LUSC). This framework introduces self-supervised approaches for HRS images and POIs to mine the multi-source representations from parcels.
@@ -61,6 +65,7 @@ Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resol
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
 
 Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang$^{*}$**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
