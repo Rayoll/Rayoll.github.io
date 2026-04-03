@@ -28,7 +28,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents
 
-[**Code**](https://github.com/Rayoll/VLM-LU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/Rayoll/VLM-LU)
 
 **Ruiyi Yang**, Yu Su, Yinhe Liu, Ailong Ma, Yanfei Zhong
 
@@ -55,7 +55,7 @@ Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
 
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
 
-[**Code**](https://github.com/Rayoll/Multi_E2E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/Rayoll/Multi_E2E) 
 
 - This work proposes an end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographic data (Multi-E2E). The Multi-E2E framework automatically establishes the mapping from multi-source data to land-use categories through a data-driven approach.
   </div>
@@ -114,3 +114,4 @@ Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang**, Mengzi Xu, Yu Su, Zhendong 
 # 📖 Educations
 - *2023.09 - now*, Doctoral, Wuhan University, Wuhan.
 - *2019.09 - 2023.06*, Bachelor, Wuhan University, Wuhan.
+
