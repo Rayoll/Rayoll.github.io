@@ -14,12 +14,12 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by ISPRS (IF=12.2)!
-- *2025.09*: &nbsp;🎉🎉 One co-authored paper is accepted by ISPRS (IF=12.2)!
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by RSE (IF=11.4)! 
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS (IF=8.6)!
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (IF=12.2)!
+- *2025.09*: &nbsp;🎉🎉 One co-authored paper is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (IF=12.2)!
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Remote Sensing of Environment (IF=11.4)! 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing‌ (IF=8.6)!
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by IGARSS 2024 (Oral)! 
-- *2023.08*: &nbsp;🎉🎉 One co-authored paper is accepted by RSE (IF=11.4)!
+- *2023.08*: &nbsp;🎉🎉 One co-authored paper is accepted by Remote Sensing of Environment (IF=11.4)!
 
 # 📝 Publications 
 
