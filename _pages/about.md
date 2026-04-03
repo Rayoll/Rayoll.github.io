@@ -116,12 +116,15 @@ Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang**, Mengzi Xu, Yu Su, Zhendong 
   </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01* Chen Yongling Academician Outstanding Student Science and Technology Innovation Scholarship（陈永龄院士优秀学生科技创新奖学金）
+- *2025.11* China Graduate Smart City Technology and Creative Design Competition, 1st prize（中国研究生智慧城市技术与创意设计大赛一等奖）
+- *2024.10* Outstanding graduate academic second-class scholarship, Wuhan University（武汉大学优秀研究生学术二等奖学金）
+- *2023.10* Outstanding Graduate Freshman First-class Scholarship, Wuhan University（武汉大学优秀研究生新生一等奖学金）
+- *2022.12* National Scholarship for Undergraduate Student（本科生国家奖学金）
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Doctoral, Wuhan University, Wuhan.
+- *2019.09 - 2023.06*, Bachelor, Wuhan University, Wuhan.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
