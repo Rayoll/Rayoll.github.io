@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Information Engineering, Wuhan University, in 2023. She is currently pursuing the Ph.D. degree in the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, advised by <u>Prof. Yanfei Zhong</u>. Her research interests include multi-source data driven urban land-use mapping and high-resolution urban scene understanding. 
@@ -45,10 +38,6 @@ Large vision-language model knowledge guided multi-source urban land-use mapping
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2025</div><img src='../images/UADG.jpg' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-
-
 [Global urban high-resolution scene classification via uncertainty-aware domain generalization](https://www.sciencedirect.com/science/article/pii/S0924271625003387)
 
 Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
