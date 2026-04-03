@@ -30,19 +30,92 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2026</div><img src='../images/VLM_LU.jpg' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Code**](https://github.com/Rayoll/VLM-LU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+**Ruiyi Yang**, Yu Su, Yinhe Liu, Ailong Ma, Yanfei Zhong
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- This paper proposes a large vision-language model knowledge-guided multi-source feature learning framework for urban land-use mapping (VLM-LU). The VLM-LU performs well on cities across six continents, demonstrating its potential practicality in large-scale land-use mapping.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2025</div><img src='../images/UADG.jpg' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+[Global urban high-resolution scene classification via uncertainty-aware domain generalization](https://www.sciencedirect.com/science/article/pii/S0924271625003387)
+
+Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
+
+- To address two key challenges in global urban scene classification: cross-city style differences and long-tailed data distribution, this paper proposes a uncertainty-aware domain generalization (UADG) framework. The UADG enhances robustness and classification performance under cross-city settings.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='../images/Multi_E2E.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographical data](https://www.sciencedirect.com/science/article/pii/S0034425725003700)
+
+**Ruiyi Yang**, Yu Su, Yanfei Zhong
+
+[**Code**](https://github.com/Rayoll/Multi_E2E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- This work proposes an end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographic data (Multi-E2E). The Multi-E2E framework automatically establishes the mapping from multi-source data to land-use categories through a data-driven approach.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/SJRL.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+[Self-supervised joint representation learning for urban land-use classification with multisource geographic data](https://ieeexplore.ieee.org/abstract/document/10855160/)
+
+**Ruiyi Yang**, Yu Su, Yanfei Zhong
+
+- This paper introduces a self-supervised joint representation learning (SJRL) framework for urban land-use classification with multisource geographic data. For the high-resolution remote sensing images, a semantic-aware self-supervised representation approach is employed to mine the significant visual information of the HRS images. For the points of interest (POIs), a context-aware self-supervised representation learning approach is designed to investigate the spatial distribution patterns of POIs.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='../images/LUSA.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[Urban land-use classification with multi-source self-supervised representation learning and correlation modeling](https://ieeexplore.ieee.org/document/10642159)
+
+**Ruiyi Yang**, Yu Su, Yanfei Zhong
+
+- This work proposes an urban land-use classification framework with multi-source self-supervised representation learning and correlation modeling (LUSC). This framework introduces self-supervised approaches for HRS images and POIs to mine the multi-source representations from parcels.
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='../images/GUN.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+[Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
+
+Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
+
+[**Dataset**](https://rsidea.whu.edu.cn/GUN_dataset.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- A large-scale fine-grained urban land-use dataset GlobalUrbanNet (GUN) and a multi-city fully automatic urban land-use mapping method (AutoULUM) are developed, boosting the coordinated development of multiple cities around the world.
+  </div>
+  </div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
