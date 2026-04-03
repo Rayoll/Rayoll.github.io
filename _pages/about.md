@@ -23,8 +23,9 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2026</div><img src='../images/VLM_LU.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2026</div><img src='../images/VLM_LU.jpg' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents
 
@@ -49,8 +50,6 @@ Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2025</div><img src='../images/Multi_E2E.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-
 [Multi-E2E: An end-to-end urban land-use mapping framework integrating high-resolution remote sensing images and multi-source geographical data](https://www.sciencedirect.com/science/article/pii/S0034425725003700)
 
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
@@ -63,10 +62,6 @@ Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/SJRL.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-
-
 [Self-supervised joint representation learning for urban land-use classification with multisource geographic data](https://ieeexplore.ieee.org/abstract/document/10855160/)
 
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
@@ -78,8 +73,6 @@ Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='../images/LUSA.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-
 [Urban land-use classification with multi-source self-supervised representation learning and correlation modeling](https://ieeexplore.ieee.org/document/10642159)
 
 **Ruiyi Yang**, Yu Su, Yanfei Zhong
@@ -90,15 +83,11 @@ Jingjun Yi, Yanfei Zhong, Yu Su, **Ruiyi Yang**, Yinhe Liu, Junjue Wang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2023</div><img src='../images/GUN.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-
-
 [Global urban high-resolution land-use mapping: From benchmarks to multi-megacity applications](https://www.sciencedirect.com/science/article/pii/S0034425723003097)
 
 Yanfei Zhong, Bowen Yan, Jingjun Yi, **Ruiyi Yang**, Mengzi Xu, Yu Su, Zhendong Zheng, Liangpei Zhang
 
-[**Dataset**](https://rsidea.whu.edu.cn/GUN_dataset.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Dataset**](https://rsidea.whu.edu.cn/GUN_dataset.htm)
 
 - A large-scale fine-grained urban land-use dataset GlobalUrbanNet (GUN) and a multi-city fully automatic urban land-use mapping method (AutoULUM) are developed, boosting the coordinated development of multiple cities around the world.
   </div>
