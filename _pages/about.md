@@ -37,6 +37,8 @@ Large vision-language model knowledge guided multi-source urban land-use mapping
 
 **Ruiyi Yang**, Yu Su, Yinhe Liu, Ailong Ma, Yanfei Zhong
 
+[**Code**](https://github.com/Rayoll/VLM-LU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - This paper proposes a large vision-language model knowledge-guided multi-source feature learning framework for urban land-use mapping (VLM-LU). The VLM-LU performs well on cities across six continents, demonstrating its potential practicality in large-scale land-use mapping.
 </div>
 </div>
