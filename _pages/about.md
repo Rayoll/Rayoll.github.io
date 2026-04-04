@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Information Engineering, Wuhan University, in 2023. She is currently pursuing the Ph.D. degree in the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, advised by <u>[Prof. Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=zh-CN&oi=ao)</u>. Her research interests include multi-source data driven urban land-use mapping and high-resolution urban scene understanding. 
+Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Information Engineering, Wuhan University, in 2023. She is currently pursuing the Ph.D. degree in the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, advised by [Prof. Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=zh-CN&oi=ao). Her research interests include multi-source data driven urban land-use mapping and high-resolution urban scene understanding. 
 
 
 # 🔥 News
@@ -42,7 +42,6 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,7 +57,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
   </div>
   </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2026.01* Chen Yongling Academician Outstanding Student Science and Technology Innovation Scholarship（陈永龄院士优秀学生科技创新奖学金）
