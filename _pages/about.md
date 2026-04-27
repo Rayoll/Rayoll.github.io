@@ -32,8 +32,7 @@ Ruiyi Yang received the B.S. degree from the School of Remote Sensing and Inform
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2026</div><img src='../images/VLM_LU.jpg' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-
-Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents
+[Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents]([Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0924271626001760))
 
 **Ruiyi Yang**, Yu Su, Yinhe Liu, Ailong Ma, Yanfei Zhong
 
